@@ -1,0 +1,4 @@
+output of both the files : 
+ this is p1.txt  
+
+ this is p2.txt 
